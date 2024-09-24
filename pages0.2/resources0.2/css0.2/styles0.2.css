@@ -1,0 +1,42 @@
+/* Resources */
+#list-resources {
+    list-style: lower-roman;
+}
+#list-resources a {
+    text-decoration: none;
+}
+#list-resources a:hover {
+    text-decoration: underline;
+    color: rgb(0, 187, 187)
+}
+#list-resources a li {
+margin-top: 15px;
+}
+
+
+/* About */
+.aboutp ul li {
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.aboutp ul {
+    margin-left: -20px;
+    margin-right: 15px;
+}
+
+
+/* Learn More */
+main {
+    margin-top: 15px;
+    padding: 10px;
+    border: solid;
+    border-color: rgb(99, 36, 0);
+    background-color: rgba(99, 36, 0, .2);
+}
+.youtubechannels div a  {
+    margin-bottom: 0;
+}
+.youtubechannels div p {
+    margin-top: 5px;
+}

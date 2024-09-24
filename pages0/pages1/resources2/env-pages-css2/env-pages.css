@@ -1,0 +1,61 @@
+/* Beginning of individual environment page id-images (temporary grouping) (Swamp moved to specifics)*/
+#stackbar-forest {
+    background-image:url(../../../../resources0/images/forestry/birch-tree-forest.jpg);
+    background-size: cover;
+}
+#stackbar-desert {
+    background-image: url(../../../../resources0/images/desert/rocky-desert-plains.jpg);
+    background-size: cover;
+}
+#stackbar-cold {
+    background-image: url(../../../../resources0/images/mountain/lavender\ mountains.jpg);
+    background-size: cover;
+}
+#stackbar-ocean {
+    background-image: url(../../../../resources0/images/ocean/crashing-waves.jpg);
+    background-size: cover;
+}
+
+#stackbar-island {
+    background-image: url(../../../../resources0/images/island/islands-birdsview.jpg);
+    background-size: cover;
+}
+/* Ending of individual environment page id-images (temporary grouping) (Swamp moved to specifics)*/
+
+/* Swamp Specifics */
+#stackbar-swamp {
+    background-image: url(../../../../resources0/images/swamp/swamp-trees.jpg);
+}
+#bodycontent-swamp {
+    background: darkolivegreen;
+    background: linear-gradient(180deg, darkolivegreen 0%, rgba(108,48,0,1) 42%, rgba(0,0,0,1) 100%);
+}
+#bodycontent-swamp h2 {
+    color: antiquewhite;
+}
+
+/* Swamp img paragraph groups */
+#imgpgroup-swampimg {
+    border-color: rgb(31, 110, 0); 
+}
+#imgpgroup-swamp {
+    border-color: rgb(31, 110, 0);
+    background-color: rgb(149, 158, 129);
+}
+#imgpgroup-swamp, p {
+    color:black;
+}
+
+/* Swamp img list groups */
+#imglistgroup-swamp {
+    color: rgb(255, 255, 255);
+}
+#turtleoftheswamp {
+    max-width: 45%;
+    border-color: rgb(49, 0, 0) ;
+}
+#imglisttitle-swamp h3 {
+    border-bottom: solid;
+    color: antiquewhite;
+    text-align: center;
+}

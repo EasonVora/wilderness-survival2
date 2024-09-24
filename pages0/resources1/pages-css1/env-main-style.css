@@ -1,0 +1,37 @@
+
+
+/* Environment Specifics */
+#stackbar-environments {
+    background-image:url(../../../resources0/images/mountain/autumn-ravine.jpg);
+    background-size: cover;
+}
+.bodycontent-environments {
+    background: rgb(180,255,48);
+    background: linear-gradient(180deg, rgba(180,255,48,1) 0%, rgba(38,142,0,1) 15%, rgba(0,0,0,1) 100%);
+}
+
+/* img groups */
+#imggroup-environments1 {
+    margin-top: 15px;
+}
+#imggroup-environments1 p {
+    color: antiquewhite;
+    border-style: dotted;
+    border-width: 1px;
+    padding: 10px;
+    background-color: rgb(99, 36, 0);
+}
+#imglistgroup-environments {
+    border: solid;
+    border-color: antiquewhite;
+    color: antiquewhite;
+    padding: 15px;
+    background-color: rgb(29, 58, 0);
+}
+#imglistgroup-environmentsimg {
+    border-color: antiquewhite;
+    max-width: 50%;
+}
+#imglistgroup-environmentslist {
+    min-width: 35%;
+}

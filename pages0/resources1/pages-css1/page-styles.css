@@ -1,0 +1,99 @@
+
+
+
+/* Fuel and Fire specifics */
+/* Fire Saftey Tips */
+#stackbar-fuelfire {
+    background-image: url(../../../resources0/images/campfire/campfire-with-logs.jpg);
+    background-size: cover;
+}
+#bodycontent-fuelfire {
+    background: rgb(255,109,0);
+    background: linear-gradient(0deg, rgba(255,109,0,1) 0%, rgba(108,48,0,1) 50%, rgba(255,219,143,1) 100%);
+}
+
+/* Fuel Types Intro */
+.freetext {
+    color: rgb(0, 0, 0);
+    background-color:burlywood;
+    padding: 15px;
+    border-style: solid;
+    border-color: rgb(49, 0, 0);
+    border-width: 3px;
+    margin-top: 15px;
+}
+.freetext h3 {
+    text-align: center;
+    border-bottom: solid;
+    border-color: rgb(49, 0, 0);
+}
+
+/* fire img specifics from img groups */
+#imgpgroup-fire {
+    border-color: rgb(49, 0, 0);
+}
+#imgpgroup-campfireimg {
+    border-color: rgb(49,0, 0);
+    max-width: 275px;
+    min-width: 50px;
+}
+#imgpgroup-fire p {
+    margin: auto;
+}
+#imglistgroup-bonfireimg {
+    max-height: 350px;
+    min-width: 50px;
+    border-color: rgb(49, 0, 0);
+    margin: auto;
+}
+
+/* Fire tips */
+.firetips, .firetips2 {
+    margin-top: 15px;
+    border: solid;
+}
+
+.firetips {
+    border-color: rgb(99, 36, 0);
+    background-color: rgb(104, 85, 85);
+    color: antiquewhite
+}
+
+.firetips2 {
+    border-color: burlywood;
+    background-color: rgb(49, 0, 0);
+    color: antiquewhite;
+    margin-bottom: 40px;
+}
+
+.firetips h4, .firetips2 h4 {
+    margin: 10px 10px;
+    text-align: center;
+    border-bottom: solid;
+}
+
+.firetiplist li {
+    margin-bottom: 35px;
+    margin-right: 35px;
+}
+
+
+/* Shelter and Saftey */
+#stackbar-sheltersafe {
+    background-image: url(../../../resources0/images/forestry/mirror-houses-in-forest.jpg);
+    background-size: cover;
+}
+
+
+/* Food and Water */
+#stackbar-foodwater {
+    background-image: url(../../../resources0/images/foodwater/different-meats-on-grill.jpg);
+    background-size: cover;
+}
+
+
+/* Tools and Materials */
+#stackbar-toolmat {
+    background-image: url(../../../resources0/images/tools/blue-wooden-planks.jpg);
+    background-size: cover;
+}
