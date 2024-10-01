@@ -1,6 +1,7 @@
 /* DEFAULT LAYOUT */
 * {
     font-size-adjust: large;
+    font-family: 'Merriweather', 'Times New Roman';
 }
 /* beginning of top bar navigation */
 .fixednav {
