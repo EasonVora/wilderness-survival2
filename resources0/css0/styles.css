@@ -1,5 +1,8 @@
 
 /* Home Page specifics */
+h1 {
+    text-transform: uppercase;
+}
 #moto {
     text-align: center;
 }
