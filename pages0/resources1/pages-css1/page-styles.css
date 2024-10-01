@@ -33,6 +33,9 @@
 #imglistgroup-environmentslist {
     min-width: 35%;
 }
+#imglistgroup-environmentslist li {
+    margin-bottom: 15px;
+}
 
 
 /* Fuel and Fire specifics */
