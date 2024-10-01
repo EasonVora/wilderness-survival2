@@ -1,7 +1,7 @@
 /* DEFAULT LAYOUT */
 * {
     font-size-adjust: large;
-    font-family: 'Merriweather', 'Times New Roman';
+    font-family: 'Merriweather', 'Georgia', 'Times New Roman', serif;
 }
 /* beginning of top bar navigation */
 .fixednav {
