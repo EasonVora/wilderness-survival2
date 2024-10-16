@@ -2,6 +2,10 @@
 * {
     font-family: 'Merriweather', 'Georgia', 'Times New Roman', serif;
 }
+a:hover {
+    cursor: pointer;
+}
+
 /* beginning of top bar navigation */
 .fixednav {
     display: block;
